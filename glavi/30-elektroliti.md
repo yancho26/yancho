@@ -17,7 +17,7 @@
 - Преди лечение на изолирана хиперкалиемия се изключва псевдохиперкалиемия. Калий 6,5 mmol/l или повече или промени в ЕКГ налагат спешно лечение в болница *(SORT C [3])*.
 - Рефрактерната хипокалиемия и хипокалциемия изискват изследване и корекция на магнезия.
 - Хиперкалциемията се разделя на ПТХ-зависима (най-често първичен хиперпаратиреоидизъм) и ПТХ-независима (злокачествени заболявания, миелом, витамин D, грануломи) *(SORT C [4])*.
-- Хипонатриемия с хиперкалиемия и хипотония е надбъбречна криза, докато не се докаже противното. При недохранен пациент, който започва да се храни, се следят фосфатите, калият и магнезият [6].
+- Хипонатриемия с хиперкалиемия и хипотония е надбъбречна криза, докато не се докаже противното. При недохранен пациент, който започва да се храни, се следят фосфатите, калият и магнезият [5].
 
 ---
 
@@ -198,13 +198,13 @@
 ## 8. Хипофосфатемия
 
 - **Причини:**
-  - **синдром на възобновено хранене** (при недохранени пациенти, алкохолици, след продължително гладуване) [6];
+  - **синдром на възобновено хранене** (при недохранени пациенти, алкохолици, след продължително гладуване) [5];
   - алкохол;
   - лечение на диабетна кетоацидоза;
   - респираторна алкалоза;
   - хиперпаратиреоидизъм, дефицит на витамин D;
   - фосфат-свързващи средства и антиациди;
-  - **интравенозно желязо** (особено фери карбоксималтоза — чрез повишаване на FGF23) [5];
+  - **интравенозно желязо** (особено фери карбоксималтоза — чрез повишаване на FGF23) [6];
   - синдром на Fanconi.
 - **Последици:** мускулна слабост, рабдомиолиза, дихателна недостатъчност, хемолиза, объркване, сърдечна недостатъчност.
 
@@ -437,8 +437,8 @@ flowchart TD
 2. Hillier TA, Abbott RD, Barrett EJ. Hyponatremia: evaluating the correction factor for hyperglycemia. Am J Med. 1999;106(4):399-403. doi:10.1016/s0002-9343(99)00055-8. PMID: 10225241.
 3. Lott C, Truhlář A, Alfonzo A, Barelli A, González-Salvado V, Hinkelbein J, et al. European Resuscitation Council Guidelines 2021: Cardiac arrest in special circumstances. Resuscitation. 2021;161:152-219. doi:10.1016/j.resuscitation.2021.02.011. PMID: 33773826.
 4. Walker MD, Shane E. Hypercalcemia: A Review. JAMA. 2022;328(16):1624-1636. doi:10.1001/jama.2022.18331. PMID: 36282253.
-5. Wolf M, Rubin J, Achebe M, Econs MJ, Peacock M, Imel EA, et al. Effects of Iron Isomaltoside vs Ferric Carboxymaltose on Hypophosphatemia in Iron-Deficiency Anemia: Two Randomized Clinical Trials. JAMA. 2020;323(5):432-443. doi:10.1001/jama.2019.22450. PMID: 32016310.
-6. da Silva JSV, Seres DS, Sabino K, Adams SC, Berdahl GJ, Citty SW, et al. ASPEN Consensus Recommendations for Refeeding Syndrome. Nutr Clin Pract. 2020;35(2):178-195. doi:10.1002/ncp.10474. PMID: 32115791.
+5. da Silva JSV, Seres DS, Sabino K, Adams SC, Berdahl GJ, Citty SW, et al. ASPEN Consensus Recommendations for Refeeding Syndrome. Nutr Clin Pract. 2020;35(2):178-195. doi:10.1002/ncp.10474. PMID: 32115791.
+6. Wolf M, Rubin J, Achebe M, Econs MJ, Peacock M, Imel EA, et al. Effects of Iron Isomaltoside vs Ferric Carboxymaltose on Hypophosphatemia in Iron-Deficiency Anemia: Two Randomized Clinical Trials. JAMA. 2020;323(5):432-443. doi:10.1001/jama.2019.22450. PMID: 32016310.
 
 *Последна проверка на съдържанието: септември 2026 г. Следващ планиран преглед: септември 2027 г. (вж. „Политика за актуализация“ в README).*
 

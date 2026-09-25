@@ -14,12 +14,12 @@
 
 ## Ключови моменти
 
-- Анамнезата е най-мощният диагностичен инструмент: в класически проучвания тя насочва към диагнозата в около три четвърти от случаите [3]. Оставете пациента да разкаже, без да го прекъсвате, и попитайте за неговите представи, тревоги и очаквания.
+- Анамнезата е най-мощният диагностичен инструмент: в класически проучвания тя насочва към диагнозата в около три четвърти от случаите [12]. Оставете пациента да разкаже, без да го прекъсвате, и попитайте за неговите представи, тревоги и очаквания.
 - Жизнените показатели, включително дихателната честота и SpO₂, са задължителен минимум при всеки преглед. Дихателна честота над 20–22/min е тревожен белег.
-- Тълкувайте физикалните признаци чрез отношенията на правдоподобие. Липсата едновременно на треска, вратна ригидност и промени в съзнанието практически изключва бактериален менингит *(SORT B [6])*.
+- Тълкувайте физикалните признаци чрез отношенията на правдоподобие. Липсата едновременно на треска, вратна ригидност и промени в съзнанието практически изключва бактериален менингит *(SORT B [5])*.
 - Преди всяко изследване се питайте дали резултатът ще промени поведението. Изненадващ, изолиран резултат първо се повтаря при правилно взета проба, освен ако изисква незабавни действия.
 - Избягвайте свръхдиагностиката: без образно изследване при неспецифична болка в кръста под 6 седмици и без урокултура при безсимптомен възрастен пациент *(SORT A)*.
-- Точковото изследване на CRP в кабинета намалява ненужното предписване на антибиотици при инфекции на дихателните пътища *(SORT A [11, 12])*.
+- Точковото изследване на CRP в кабинета намалява ненужното предписване на антибиотици при инфекции на дихателните пътища *(SORT A [10, 11])*.
 
 ---
 
@@ -111,11 +111,11 @@
 | Кръстосан тест на Lasègue | Дискова херния с радикулопатия | ≈ 2,5 | — |
 | Липса на треска, вратна ригидност **и** промени в съзнанието | Бактериален менингит | — | ≈ 0 (чувствителност 99–100%) |
 
-*Стойностите са приблизителни и са обобщени от серията „The Rational Clinical Examination“ (JAMA) и от ръководството на McGee по физикална диагностика [4–7]. Обхватът им варира между проучванията.*
+*Стойностите са приблизителни и са обобщени от серията „The Rational Clinical Examination“ (JAMA) и от ръководството на McGee по физикална диагностика [3–6]. Обхватът им варира между проучванията.*
 
 От таблицата следват няколко важни извода:
 
-- **Симптомите на Kernig и Brudzinski** имат чувствителност около 5% [8]. Липсата им не изключва менингит.
+- **Симптомите на Kernig и Brudzinski** имат чувствителност около 5% [7]. Липсата им не изключва менингит.
 - **Симптомът на Homans** няма диагностична стойност при тромбоза на дълбоките вени.
 - **Тестът с изправен крак** е чувствителен, но неспецифичен. Кръстосаният тест е обратното: по-малко чувствителен, но по-специфичен.
 
@@ -189,7 +189,7 @@
 
 ### 3.6. Свръхдиагностика
 
-Свръхдиагностиката е откриването на „заболяване“, което никога не би причинило симптоми или смърт. Класически пример е многократното нарастване на диагностицираните случаи на папиларен карцином на щитовидната жлеза при масов ултразвуков скрининг, без промяна в смъртността [10]. Примери за изследвания, които в общата практика обикновено **не** са показани:
+Свръхдиагностиката е откриването на „заболяване“, което никога не би причинило симптоми или смърт. Класически пример е многократното нарастване на диагностицираните случаи на папиларен карцином на щитовидната жлеза при масов ултразвуков скрининг, без промяна в смъртността [8]. Примери за изследвания, които в общата практика обикновено **не** са показани:
 
 - образно изследване при неспецифична болка в кръста с давност под 6 седмици, без червени флагове;
 - урокултура при безсимптомен възрастен пациент, освен при бременност и преди урологична интервенция;
@@ -221,7 +221,7 @@
 
 ### 3.8. Изследвания в кабинета
 
-- **CRP на място.** Помага при решението за антибиотик при инфекции на долните дихателни пътища. Стойности под 20 mg/l обикновено не налагат антибиотик. При 20–100 mg/l може да се обсъди отложено предписване. При стойности над 100 mg/l антибиотикът обикновено е показан. Изследването намалява предписването на антибиотици без да влошава изхода [11, 12].
+- **CRP на място.** Помага при решението за антибиотик при инфекции на долните дихателни пътища. Стойности под 20 mg/l обикновено не налагат антибиотик. При 20–100 mg/l може да се обсъди отложено предписване. При стойности над 100 mg/l антибиотикът обикновено е показан. Изследването намалява предписването на антибиотици без да влошава изхода [10, 11].
 - **Тест с уринна лента.** Висока отрицателна предсказваща стойност за инфекция на пикочните пътища при млади жени. Ниска стойност при възрастни хора и при пациенти с уретрален катетър.
 - **Тест за бременност.** Задължителен е при всяка жена в детеродна възраст с коремна болка, аменорея или неясни симптоми, както и преди образни изследвания и преди някои лекарства.
 - **ЕКГ, капилярна кръвна захар, пулсова оксиметрия, спирометрия, INR.** Пулсовата оксиметрия може да надценява сатурацията при по-тъмна кожа. При отравяне с въглероден оксид тя е фалшиво нормална.
@@ -339,7 +339,7 @@ flowchart TD
 <details>
 <summary>Отговор и обосновка</summary>
 
-**Верен отговор: Б.** Отсъствието и на трите белега има чувствителност 99–100% за бактериален менингит, т.е. LR− е близо до нула [6]. А е обратното. В е неправилно, защото липсата на триадата силно намалява вероятността. Г не е необходимо при липса на подозрение. Д е неправилно: липсата на белезите не доказва друга диагноза.
+**Верен отговор: Б.** Отсъствието и на трите белега има чувствителност 99–100% за бактериален менингит, т.е. LR− е близо до нула [5]. А е обратното. В е неправилно, защото липсата на триадата силно намалява вероятността. Г не е необходимо при липса на подозрение. Д е неправилно: липсата на белезите не доказва друга диагноза.
 
 </details>
 
@@ -395,7 +395,7 @@ flowchart TD
 <details>
 <summary>Решение</summary>
 
-Претестовият шанс е 0,10 / 0,90 ≈ 0,11. Следтестовият шанс е 0,11 × 6 ≈ 0,67. Следтестовата вероятност е 0,67 / 1,67 ≈ 40%. При такава вероятност дисекацията е реална възможност. Пациентът се насочва спешно (112) за КТ-ангиография на аортата. Тромболиза и антиагреганти не се прилагат, докато дисекацията не бъде изключена [7].
+Претестовият шанс е 0,10 / 0,90 ≈ 0,11. Следтестовият шанс е 0,11 × 6 ≈ 0,67. Следтестовата вероятност е 0,67 / 1,67 ≈ 40%. При такава вероятност дисекацията е реална възможност. Пациентът се насочва спешно (112) за КТ-ангиография на аортата. Тромболиза и антиагреганти не се прилагат, докато дисекацията не бъде изключена [6].
 
 </details>
 
@@ -428,16 +428,16 @@ flowchart TD
 
 1. Singh Ospina N, Phillips KA, Rodriguez-Gutierrez R, Castaneda-Guarderas A, Gionfriddo MR, Branda ME, et al. Eliciting the Patient's Agenda- Secondary Analysis of Recorded Clinical Encounters. J Gen Intern Med. 2019;34(1):36-40. doi:10.1007/s11606-018-4540-5. PMID: 29968051.
 2. Langewitz W, Denz M, Keller A, Kiss A, Rüttimann S, Wössmer B. Spontaneous talking time at start of consultation in outpatient clinic: cohort study. BMJ. 2002;325(7366):682-3. doi:10.1136/bmj.325.7366.682. PMID: 12351359.
-3. Hampton JR, Harrison MJ, Mitchell JR, Prichard JS, Seymour C. Relative contributions of history-taking, physical examination, and laboratory investigation to diagnosis and management of medical outpatients. Br Med J. 1975;2(5969):486-9. doi:10.1136/bmj.2.5969.486. PMID: 1148666.
-4. Simel DL, Rennie D, Keitz SA, editors. The Rational Clinical Examination: Evidence-Based Clinical Diagnosis. New York: McGraw-Hill; 2009.
-5. McGee S. Evidence-Based Physical Diagnosis. 5th ed. Philadelphia: Elsevier; 2021.
-6. Attia J, Hatala R, Cook DJ, Wong JG. The rational clinical examination. Does this adult patient have acute meningitis? JAMA. 1999;282(2):175-81. doi:10.1001/jama.282.2.175. PMID: 10411200.
-7. Klompas M. Does this patient have an acute thoracic aortic dissection? JAMA. 2002;287(17):2262-72. doi:10.1001/jama.287.17.2262. PMID: 11980527.
-8. Thomas KE, Hasbun R, Jekel J, Quagliarello VJ. The diagnostic accuracy of Kernig's sign, Brudzinski's sign, and nuchal rigidity in adults with suspected meningitis. Clin Infect Dis. 2002;35(1):46-52. doi:10.1086/340979. PMID: 12060874.
+3. Simel DL, Rennie D, Keitz SA, editors. The Rational Clinical Examination: Evidence-Based Clinical Diagnosis. New York: McGraw-Hill; 2009.
+4. McGee S. Evidence-Based Physical Diagnosis. 5th ed. Philadelphia: Elsevier; 2021.
+5. Attia J, Hatala R, Cook DJ, Wong JG. The rational clinical examination. Does this adult patient have acute meningitis? JAMA. 1999;282(2):175-81. doi:10.1001/jama.282.2.175. PMID: 10411200.
+6. Klompas M. Does this patient have an acute thoracic aortic dissection? JAMA. 2002;287(17):2262-72. doi:10.1001/jama.287.17.2262. PMID: 11980527.
+7. Thomas KE, Hasbun R, Jekel J, Quagliarello VJ. The diagnostic accuracy of Kernig's sign, Brudzinski's sign, and nuchal rigidity in adults with suspected meningitis. Clin Infect Dis. 2002;35(1):46-52. doi:10.1086/340979. PMID: 12060874.
+8. Ahn HS, Kim HJ, Welch HG. Korea's thyroid-cancer "epidemic"--screening and overdiagnosis. N Engl J Med. 2014;371(19):1765-7. doi:10.1056/NEJMp1409841. PMID: 25372084.
 9. Mettler FA Jr, Huda W, Yoshizumi TT, Mahesh M. Effective doses in radiology and diagnostic nuclear medicine: a catalog. Radiology. 2008;248(1):254-63. doi:10.1148/radiol.2481071451. PMID: 18566177.
-10. Ahn HS, Kim HJ, Welch HG. Korea's thyroid-cancer "epidemic"--screening and overdiagnosis. N Engl J Med. 2014;371(19):1765-7. doi:10.1056/NEJMp1409841. PMID: 25372084.
-11. Cals JW, Butler CC, Hopstaken RM, Hood K, Dinant GJ. Effect of point of care testing for C reactive protein and training in communication skills on antibiotic use in lower respiratory tract infections: cluster randomised trial. BMJ. 2009;338:b1374. doi:10.1136/bmj.b1374. PMID: 19416992.
-12. Smedemark SA, Aabenhus R, Llor C, Fournaise A, Olsen O, Jørgensen KJ. Biomarkers as point-of-care tests to guide prescription of antibiotics in people with acute respiratory infections in primary care. Cochrane Database Syst Rev. 2022;10(10):CD010130. doi:10.1002/14651858.CD010130.pub3. PMID: 36250577.
+10. Cals JW, Butler CC, Hopstaken RM, Hood K, Dinant GJ. Effect of point of care testing for C reactive protein and training in communication skills on antibiotic use in lower respiratory tract infections: cluster randomised trial. BMJ. 2009;338:b1374. doi:10.1136/bmj.b1374. PMID: 19416992.
+11. Smedemark SA, Aabenhus R, Llor C, Fournaise A, Olsen O, Jørgensen KJ. Biomarkers as point-of-care tests to guide prescription of antibiotics in people with acute respiratory infections in primary care. Cochrane Database Syst Rev. 2022;10(10):CD010130. doi:10.1002/14651858.CD010130.pub3. PMID: 36250577.
+12. Hampton JR, Harrison MJ, Mitchell JR, Prichard JS, Seymour C. Relative contributions of history-taking, physical examination, and laboratory investigation to diagnosis and management of medical outpatients. Br Med J. 1975;2(5969):486-9. doi:10.1136/bmj.2.5969.486. PMID: 1148666.
 
 *Последна проверка на съдържанието: септември 2026 г. Следващ планиран преглед: септември 2027 г. (вж. „Политика за актуализация“ в README).*
 

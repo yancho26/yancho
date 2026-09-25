@@ -12,8 +12,8 @@
 
 ## Ключови моменти
 
-- СУЕ се влияе от възрастта, пола, анемията и парапротеините. Горната граница е приблизително възраст/2 при мъжете и (възраст + 10)/2 при жените *(SORT C [1])*.
-- CRP се повишава за часове и спада бързо. Затова е по-добър маркер за остра инфекция и за проследяване на лечението [2].
+- СУЕ се влияе от възрастта, пола, анемията и парапротеините. Горната граница е приблизително възраст/2 при мъжете и (възраст + 10)/2 при жените *(SORT C [2])*.
+- CRP се повишава за часове и спада бързо. Затова е по-добър маркер за остра инфекция и за проследяване на лечението [1].
 - Много висока СУЕ при нормален CRP насочва към парапротеинемия или системен лупус еритематодес.
 - При възраст над 50 години с ново главоболие, челюстна клаудикация или зрителни нарушения се започва кортикостероид и пациентът се насочва спешно за гигантоклетъчен артериит *(SORT C [3])*.
 - При възраст 60 и повече години с персистираща болка в костите или необяснима фрактура се изследват ПКК, калций, СУЕ, електрофореза и свободни леки вериги *(SORT C [10])*. Нормални хемоглобин и СУЕ правят миелома малко вероятен *(SORT B [9])*.
@@ -26,9 +26,9 @@
 | Характеристика | СУЕ | CRP |
 |---|---|---|
 | Същност | Скорост на утаяване на еритроцитите; зависи главно от **фибриногена и имуноглобулините** | Белтък на острата фаза, синтезиран в черния дроб под влияние на IL-6 |
-| Динамика | Бавна: повишава се и се нормализира за седмици | Бърза: повишава се за 6–8 часа, достига максимум за около 48 часа, полуживот около 19 часа [2] |
+| Динамика | Бавна: повишава се и се нормализира за седмици | Бърза: повишава се за 6–8 часа, достига максимум за около 48 часа, полуживот около 19 часа [1] |
 | Влияние на други фактори | Възраст, женски пол, бременност, **анемия**, затлъстяване, ХБЗ, **парапротеини**, форма на еритроцитите | Малко; повишава се при затлъстяване |
-| Приблизителна горна граница | Мъже: възраст/2 mm/h; жени: (възраст + 10)/2 mm/h [1] | < 5–10 mg/l |
+| Приблизителна горна граница | Мъже: възраст/2 mm/h; жени: (възраст + 10)/2 mm/h [2] | < 5–10 mg/l |
 
 ### 1.1. Несъответствия
 
@@ -247,7 +247,7 @@ flowchart TD
 <details>
 <summary>Отговор и обосновка</summary>
 
-**Верен отговор: Б.** Приблизителната горна граница за жена на 72 години е (72 + 10)/2 = 41 mm/h [1]. При липса на симптоми и находки не са нужни допълнителни изследвания.
+**Верен отговор: Б.** Приблизителната горна граница за жена на 72 години е (72 + 10)/2 = 41 mm/h [2]. При липса на симптоми и находки не са нужни допълнителни изследвания.
 
 </details>
 
@@ -346,8 +346,8 @@ flowchart TD
 
 ## Литература
 
-1. Miller A, Green M, Robinson D. Simple rule for calculating normal erythrocyte sedimentation rate. Br Med J (Clin Res Ed). 1983;286(6361):266. doi:10.1136/bmj.286.6361.266. PMID: 6402065.
-2. Pepys MB, Hirschfield GM. C-reactive protein: a critical update. J Clin Invest. 2003;111(12):1805-12. doi:10.1172/JCI18921. PMID: 12813013.
+1. Pepys MB, Hirschfield GM. C-reactive protein: a critical update. J Clin Invest. 2003;111(12):1805-12. doi:10.1172/JCI18921. PMID: 12813013.
+2. Miller A, Green M, Robinson D. Simple rule for calculating normal erythrocyte sedimentation rate. Br Med J (Clin Res Ed). 1983;286(6361):266. doi:10.1136/bmj.286.6361.266. PMID: 6402065.
 3. Mackie SL, Dejaco C, Appenzeller S, Camellino D, Duftner C, Gonzalez-Chiappe S, et al. British Society for Rheumatology guideline on diagnosis and treatment of giant cell arteritis. Rheumatology (Oxford). 2020;59(3):e1-e23. doi:10.1093/rheumatology/kez672. PMID: 31970405.
 4. Katzmann JA, Clark RJ, Abraham RS, Bryant S, Lymp JF, Bradwell AR, et al. Serum reference intervals and diagnostic ranges for free kappa and free lambda immunoglobulin light chains: relative sensitivity for detection of monoclonal light chains. Clin Chem. 2002;48(9):1437-44. PMID: 12194920.
 5. Hutchison CA, Harding S, Hewins P, Mead GP, Townsend J, Bradwell AR, et al. Quantitative assessment of serum and urinary polyclonal free light chains in patients with chronic kidney disease. Clin J Am Soc Nephrol. 2008;3(6):1684-90. doi:10.2215/CJN.02290508. PMID: 18945993.

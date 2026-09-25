@@ -17,9 +17,9 @@
 
 - Диференциалната диагноза е динамичен процес. Формулирайте 3–5 хипотези и ги подредете едновременно по вероятност и по сериозност.
 - Всеки резултат се тълкува спрямо претестовата вероятност. Отрицателният D-димер изключва белодробна тромбемболия само при ниска клинична вероятност *(SORT A [10])*.
-- Отношенията на правдоподобие не зависят от честотата на заболяването. Те позволяват да се изчисли следтестовата вероятност по формулата „шанс × LR“ [7].
-- Прилагайте петте въпроса на безопасната диагностична стратегия при всяко оплакване *(SORT C [1])*.
-- Повечето диагностични грешки са когнитивни: преждевременно затваряне, закотвяне, диагностично засенчване. Диагностичната пауза, изричната диференциална диагноза и проследяването ги ограничават *(SORT C [2, 5])*.
+- Отношенията на правдоподобие не зависят от честотата на заболяването. Те позволяват да се изчисли следтестовата вероятност по формулата „шанс × LR“ [3].
+- Прилагайте петте въпроса на безопасната диагностична стратегия при всяко оплакване *(SORT C [5])*.
+- Повечето диагностични грешки са когнитивни: преждевременно затваряне, закотвяне, диагностично засенчване. Диагностичната пауза, изричната диференциална диагноза и проследяването ги ограничават *(SORT C [1, 8])*.
 - Изчаквателното наблюдение е легитимно само при липса на червени флагове, с ясна безопасна мрежа и определен срок за повторна оценка *(SORT C)*.
 
 ---
@@ -79,7 +79,7 @@
 
 ### 2.5. Теория на двата процеса
 
-Съвременната когнитивна психология (Kahneman, Croskerry) описва две системи на мислене [2, 8]:
+Съвременната когнитивна психология (Kahneman, Croskerry) описва две системи на мислене [1, 2]:
 
 | Характеристика | Система 1 (интуитивна) | Система 2 (аналитична) |
 |---|---|---|
@@ -162,7 +162,7 @@ LR има две предимства. Не зависи от честотата
 | 0,2 | умерена | около −30 |
 | ≤ 0,1 | голяма, често решаваща | около −45 |
 
-\* Приближение по McGee [7]. Валидно е при претестова вероятност между 10% и 90%.
+\* Приближение по McGee [3]. Валидно е при претестова вероятност между 10% и 90%.
 
 ### 3.4. Теоремата на Bayes в практиката
 
@@ -178,7 +178,7 @@ LR има две предимства. Не зависи от честотата
 
 ### 3.5. Прагове за изследване и за лечение
 
-Pauker и Kassirer въвеждат две гранични стойности на вероятността [6]:
+Pauker и Kassirer въвеждат две гранични стойности на вероятността [4]:
 
 - **Праг за изследване.** Под него заболяването е толкова малко вероятно, че изследването не е оправдано: рискът и цената му надвишават ползата.
 - **Праг за лечение.** Над него вероятността е толкова висока, че се лекува без допълнително потвърждение.
@@ -223,7 +223,7 @@ Pauker и Kassirer въвеждат две гранични стойности �
 
 ### 4.4. Модел на безопасната диагностична стратегия
 
-Моделът на австралийския професор по обща медицина John Murtagh е утвърден стандарт в обучението [1]. Той се прилага при всяко оплакване чрез пет въпроса:
+Моделът на австралийския професор по обща медицина John Murtagh е утвърден стандарт в обучението [5]. Той се прилага при всяко оплакване чрез пет въпроса:
 
 | № | Въпрос | Смисъл |
 |---|---|---|
@@ -273,7 +273,7 @@ Pauker и Kassirer въвеждат две гранични стойности �
 
 ### 5.1. Определение и честота
 
-Диагностичната грешка е неуспехът (а) навреме да се установи точно обяснение на здравния проблем на пациента или (б) това обяснение да бъде съобщено на пациента. Така я определят Националните академии на САЩ (2015) [3]. Понятието обхваща пропуснатата, погрешната и забавената диагноза. По данни от проучвания всяка година около 5% от възрастните, лекувани в извънболничната помощ, стават жертва на диагностична грешка. Около половината от тези грешки могат да причинят сериозна вреда [4].
+Диагностичната грешка е неуспехът (а) навреме да се установи точно обяснение на здравния проблем на пациента или (б) това обяснение да бъде съобщено на пациента. Така я определят Националните академии на САЩ (2015) [6]. Понятието обхваща пропуснатата, погрешната и забавената диагноза. По данни от проучвания всяка година около 5% от възрастните, лекувани в извънболничната помощ, стават жертва на диагностична грешка. Около половината от тези грешки могат да причинят сериозна вреда [7].
 
 ### 5.2. Причини
 
@@ -282,7 +282,7 @@ Pauker и Kassirer въвеждат две гранични стойности �
 - **системни:** организация на работата, комуникация, проследяване на резултатите, натоварване;
 - **когнитивни.**
 
-Анализите на диагностичните грешки показват, че недостигът на знания рядко е основната причина. Много по-често грешката е в **синтеза** на наличната информация [2, 5].
+Анализите на диагностичните грешки показват, че недостигът на знания рядко е основната причина. Много по-често грешката е в **синтеза** на наличната информация [1, 8].
 
 ### 5.3. Когнитивни пристрастия
 
@@ -527,14 +527,14 @@ LR− = (1 − 0,95) / 0,40 = 0,125. Претестовият шанс е 0,40 /
 
 ## Литература
 
-1. Murtagh J, Rosenblatt J, Coleman J, Murtagh C. Murtagh's General Practice. 8th ed. Sydney: McGraw Hill Australia; 2021.
-2. Croskerry P. The importance of cognitive errors in diagnosis and strategies to minimize them. Acad Med. 2003;78(8):775-80. doi:10.1097/00001888-200308000-00003. PMID: 12915363.
-3. National Academies of Sciences, Engineering, and Medicine. Improving Diagnosis in Health Care. Washington, DC: The National Academies Press; 2015. doi:10.17226/21794
-4. Singh H, Meyer AN, Thomas EJ. The frequency of diagnostic errors in outpatient care: estimations from three large observational studies involving US adult populations. BMJ Qual Saf. 2014;23(9):727-31. doi:10.1136/bmjqs-2013-002627. PMID: 24742777.
-5. Graber ML, Franklin N, Gordon R. Diagnostic error in internal medicine. Arch Intern Med. 2005;165(13):1493-9. doi:10.1001/archinte.165.13.1493. PMID: 16009864.
-6. Pauker SG, Kassirer JP. The threshold approach to clinical decision making. N Engl J Med. 1980;302(20):1109-17. doi:10.1056/NEJM198005153022003. PMID: 7366635.
-7. McGee S. Simplifying likelihood ratios. J Gen Intern Med. 2002;17(8):646-9. doi:10.1046/j.1525-1497.2002.10750.x. PMID: 12213147.
-8. Kahneman D. Thinking, Fast and Slow. New York: Farrar, Straus and Giroux; 2011.
+1. Croskerry P. The importance of cognitive errors in diagnosis and strategies to minimize them. Acad Med. 2003;78(8):775-80. doi:10.1097/00001888-200308000-00003. PMID: 12915363.
+2. Kahneman D. Thinking, Fast and Slow. New York: Farrar, Straus and Giroux; 2011.
+3. McGee S. Simplifying likelihood ratios. J Gen Intern Med. 2002;17(8):646-9. doi:10.1046/j.1525-1497.2002.10750.x. PMID: 12213147.
+4. Pauker SG, Kassirer JP. The threshold approach to clinical decision making. N Engl J Med. 1980;302(20):1109-17. doi:10.1056/NEJM198005153022003. PMID: 7366635.
+5. Murtagh J, Rosenblatt J, Coleman J, Murtagh C. Murtagh's General Practice. 8th ed. Sydney: McGraw Hill Australia; 2021.
+6. National Academies of Sciences, Engineering, and Medicine. Improving Diagnosis in Health Care. Washington, DC: The National Academies Press; 2015. doi:10.17226/21794
+7. Singh H, Meyer AN, Thomas EJ. The frequency of diagnostic errors in outpatient care: estimations from three large observational studies involving US adult populations. BMJ Qual Saf. 2014;23(9):727-31. doi:10.1136/bmjqs-2013-002627. PMID: 24742777.
+8. Graber ML, Franklin N, Gordon R. Diagnostic error in internal medicine. Arch Intern Med. 2005;165(13):1493-9. doi:10.1001/archinte.165.13.1493. PMID: 16009864.
 9. Hampton JR, Harrison MJ, Mitchell JR, Prichard JS, Seymour C. Relative contributions of history-taking, physical examination, and laboratory investigation to diagnosis and management of medical outpatients. Br Med J. 1975;2(5969):486-9. doi:10.1136/bmj.2.5969.486. PMID: 1148666.
 10. Wells PS, Anderson DR, Rodger M, Stiell I, Dreyer JF, Barnes D, et al. Excluding pulmonary embolism at the bedside without diagnostic imaging: management of patients with suspected pulmonary embolism presenting to the emergency department by using a simple clinical model and d-dimer. Ann Intern Med. 2001;135(2):98-107. doi:10.7326/0003-4819-135-2-200107170-00010. PMID: 11453709.
 

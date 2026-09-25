@@ -13,7 +13,7 @@
 
 - Диарията е остра (под 14 дни), персистираща (14–30 дни) или хронична (над 4 седмици). Острата е най-често вирусна и отшумява спонтанно.
 - Копрокултура е нужна при кръв, висока температура, тежко протичане, продължителност над 7 дни, имуносупресия, пътуване и групови случаи. След антибиотици или хоспитализация се търсят токсините на *C. difficile* *(SORT B [1, 2])*.
-- При подозрение за шигатоксин-продуциращи *E. coli* антибиотиците и антиперисталтичните средства се избягват заради риска от хемолитично-уремичен синдром *(SORT B [1])*.
+- При подозрение за шигатоксин-продуциращи *E. coli* антибиотиците и антиперисталтичните средства се избягват заради риска от хемолитично-уремичен синдром *(SORT B [2])*.
 - Хроничната диария се класифицира като осмотична, секреторна, мастна, възпалителна или функционална. Първият етап включва ПКК, CRP, ТСХ, серология за цьолиакия, калпротектин, FIT при съмнение за карцином и фекална еластаза *(SORT B [4, 5])*.
 - Микроскопският колит се диагностицира само с биопсии от макроскопски нормалната лигавица. Той е чест при възрастни жени, които приемат НСПВС, ИПП или SSRI *(SORT B [6])*.
 - Диарията след холецистектомия насочва към диария от жлъчни киселини, а бледите мазни изпражнения — към малабсорбция или екзокринна недостатъчност на панкреаса.
@@ -76,9 +76,9 @@
 - Имунокомпрометирани пациенти.
 - Групови заболявания, лица, работещи с храни.
 - Скорошно пътуване.
-- След антибиотици или хоспитализация — изследване за **токсините на *C. difficile*** [2].
+- След антибиотици или хоспитализация — изследване за **токсините на *C. difficile*** [1].
 
-**Важно:** при подозрение за инфекция с шигатоксин-продуциращи *E. coli* антибиотиците и антиперисталтичните средства се избягват. Те повишават риска от хемолитично-уремичен синдром [1].
+**Важно:** при подозрение за инфекция с шигатоксин-продуциращи *E. coli* антибиотиците и антиперисталтичните средства се избягват. Те повишават риска от хемолитично-уремичен синдром [2].
 
 ---
 
@@ -237,7 +237,7 @@ flowchart TD
 <details>
 <summary>Отговор и обосновка</summary>
 
-**Верен отговор: В.** Острата водниста диария без червени флагове е най-често вирусна и отшумява спонтанно [1]. А, Б, Г и Д не са показани.
+**Верен отговор: В.** Острата водниста диария без червени флагове е най-често вирусна и отшумява спонтанно [2]. А, Б, Г и Д не са показани.
 
 </details>
 
@@ -252,7 +252,7 @@ flowchart TD
 <details>
 <summary>Отговор и обосновка</summary>
 
-**Верен отговор: В.** Кървавата диария след контакт с животни насочва към шигатоксин-продуциращи *E. coli*. Антибиотиците и антиперисталтичните средства повишават риска от хемолитично-уремичен синдром [1]. А, Б, Г и Д са правилни действия.
+**Верен отговор: В.** Кървавата диария след контакт с животни насочва към шигатоксин-продуциращи *E. coli*. Антибиотиците и антиперисталтичните средства повишават риска от хемолитично-уремичен синдром [2]. А, Б, Г и Д са правилни действия.
 
 </details>
 
@@ -339,8 +339,8 @@ flowchart TD
 
 ## Литература
 
-1. Shane AL, Mody RK, Crump JA, Tarr PI, Steiner TS, Kotloff K, et al. 2017 Infectious Diseases Society of America Clinical Practice Guidelines for the Diagnosis and Management of Infectious Diarrhea. Clin Infect Dis. 2017;65(12):e45-e80. doi:10.1093/cid/cix669. PMID: 29053792.
-2. McDonald LC, Gerding DN, Johnson S, Bakken JS, Carroll KC, Coffin SE, et al. Clinical Practice Guidelines for Clostridium difficile Infection in Adults and Children: 2017 Update by the Infectious Diseases Society of America (IDSA) and Society for Healthcare Epidemiology of America (SHEA). Clin Infect Dis. 2018;66(7):e1-e48. doi:10.1093/cid/cix1085. PMID: 29462280.
+1. McDonald LC, Gerding DN, Johnson S, Bakken JS, Carroll KC, Coffin SE, et al. Clinical Practice Guidelines for Clostridium difficile Infection in Adults and Children: 2017 Update by the Infectious Diseases Society of America (IDSA) and Society for Healthcare Epidemiology of America (SHEA). Clin Infect Dis. 2018;66(7):e1-e48. doi:10.1093/cid/cix1085. PMID: 29462280.
+2. Shane AL, Mody RK, Crump JA, Tarr PI, Steiner TS, Kotloff K, et al. 2017 Infectious Diseases Society of America Clinical Practice Guidelines for the Diagnosis and Management of Infectious Diarrhea. Clin Infect Dis. 2017;65(12):e45-e80. doi:10.1093/cid/cix669. PMID: 29053792.
 3. Rubio-Tapia A, Herman ML, Ludvigsson JF, Kelly DG, Mangan TF, Wu TT, et al. Severe spruelike enteropathy associated with olmesartan. Mayo Clin Proc. 2012;87(8):732-8. doi:10.1016/j.mayocp.2012.06.003. PMID: 22728033.
 4. Arasaradnam RP, Brown S, Forbes A, Fox MR, Hungin P, Kelman L, et al. Guidelines for the investigation of chronic diarrhoea in adults: British Society of Gastroenterology, 3rd edition. Gut. 2018;67(8):1380-1399. doi:10.1136/gutjnl-2017-315909. PMID: 29653941.
 5. National Institute for Health and Care Excellence. Quantitative faecal immunochemical testing to guide colorectal cancer pathway referral in primary care (HealthTech guidance HTG690). London: NICE; 2023. Достъпно на: https://www.nice.org.uk/guidance/htg690
