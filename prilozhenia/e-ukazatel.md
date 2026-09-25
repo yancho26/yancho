@@ -86,7 +86,7 @@
 - **Дизурия** — [гл. 27](../glavi/27-dizuria.md)
 - **Диплопия (двойно виждане)** — [гл. 60](../glavi/60-zrenie.md)
 - **Дисекация на аортата** — [гл. 9](../glavi/09-bolka-v-gardite.md)
-- **Дисеминирана вътресъдова коагулация (ДВС / ДИК)** — [гл. 34](../glavi/34-hemoragichna-diateza-tromboza.md)
+- **Дисеминирана вътресъдова коагулация (ДВС)** — [гл. 34](../glavi/34-hemoragichna-diateza-tromboza.md)
 - **Диспепсия и киселини** — [гл. 21](../glavi/21-dispepsia-disfagia.md)
 - **Дисфагия** — [гл. 21](../glavi/21-dispepsia-disfagia.md)
 
