@@ -485,7 +485,7 @@ flowchart TD
 5. Mackowiak PA, LeMaistre CF. Drug fever: a critical appraisal of conventional concepts. An analysis of 51 episodes in two Dallas hospitals and 97 episodes reported in the English literature. Ann Intern Med. 1987;106(5):728-33. doi:10.7326/0003-4819-106-5-728. PMID: 3565971.
 6. Royal College of Physicians. National Early Warning Score (NEWS) 2: Standardising the assessment of acute-illness severity in the NHS. Updated report of a working party. London: RCP; 2017.
 7. Pappas G, Akritidis N, Bosilkovski M, Tsianos E. Brucellosis. N Engl J Med. 2005;352(22):2325-36. doi:10.1056/NEJMra050570. PMID: 15930423.
-8. Ngoc K, Stoikov I, Trifonova I, Panayotova E, Taseva E, Trifonova I, et al. Molecular and Clinical Characterization of Crimean-Congo Hemorrhagic Fever in Bulgaria, 2015-2024. Pathogens. 2025;14(8). doi:10.3390/pathogens14080785. PMID: 40872295.
+8. Ngoc K, Stoikov I, Trifonova I, Panayotova E, Taseva E, Trifonova I, et al. Molecular and Clinical Characterization of Crimean-Congo Hemorrhagic Fever in Bulgaria, 2015-2024. Pathogens. 2025;14(8):785. doi:10.3390/pathogens14080785. PMID: 40872295.
 9. Baltadzhiev I, Kevorkyan A, Popivanova N. Mediterranean spotted fever in child and adult patients: investigation from an endemic region in Bulgaria. Cent Eur J Public Health. 2020;28(3):187-192. doi:10.21101/cejph.a5608. PMID: 32997473.
 
 *Последна проверка на съдържанието: септември 2026 г. Следващ планиран преглед: септември 2027 г. (вж. „Политика за актуализация“ в README).*
