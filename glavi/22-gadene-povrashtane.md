@@ -359,7 +359,7 @@ flowchart TD
 
 ## Литература
 
-1. Galvin R, Bråthen G, Ivashynka A, Hillbom M, Tanasescu R, Leone MA. EFNS guidelines for diagnosis, therapy and prevention of Wernicke encephalopathy. Eur J Neurol. 2010;17(12):1408-18. doi:10.1111/j.1468-1331.2010.03153.x. PMID: 20642790.
+1. Galvin R, Bråthen G, Ivashynka A, Hillbom M, Tanasescu R, Leone MA; EFNS. EFNS guidelines for diagnosis, therapy and prevention of Wernicke encephalopathy. Eur J Neurol. 2010;17(12):1408-18. doi:10.1111/j.1468-1331.2010.03153.x. PMID: 20642790.
 2. Camilleri M, Kuo B, Nguyen L, Vaughn VM, Petrey J, Greer K, et al. ACG Clinical Guideline: Gastroparesis. Am J Gastroenterol. 2022;117(8):1197-1220. doi:10.14309/ajg.0000000000001874. PMID: 35926490.
 3. Nelson-Piercy C, Dean C, Shehmar M, Gadsby R, O'Hara M, Hodson K, et al. The Management of Nausea and Vomiting in Pregnancy and Hyperemesis Gravidarum (Green-top Guideline No. 69). BJOG. 2024;131(7):e1-e30. doi:10.1111/1471-0528.17739. PMID: 38311315.
 4. Rubio-Tapia A, McCallum R, Camilleri M. AGA Clinical Practice Update on Diagnosis and Management of Cannabinoid Hyperemesis Syndrome: Commentary. Gastroenterology. 2024;166(5):930-934.e1. doi:10.1053/j.gastro.2024.01.040. PMID: 38456869.

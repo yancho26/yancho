@@ -403,7 +403,7 @@ flowchart TD
 5. Rubio-Tapia A, Hill ID, Semrad C, Kelly CP, Greer KB, Limketkai BN, et al. American College of Gastroenterology Guidelines Update: Diagnosis and Management of Celiac Disease. Am J Gastroenterol. 2023;118(1):59-76. doi:10.14309/ajg.0000000000002075. PMID: 36602836.
 6. Institute of Medicine. Beyond Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: Redefining an Illness. Washington, DC: The National Academies Press; 2015. doi:10.17226/19012
 7. National Institute for Health and Care Excellence. Myalgic encephalomyelitis (or encephalopathy)/chronic fatigue syndrome: diagnosis and management (NICE guideline NG206). London: NICE; 2021. Достъпно на: https://www.nice.org.uk/guidance/ng206
-8. Soriano JB, Murthy S, Marshall JC, Relan P, Diaz JV. A clinical case definition of post-COVID-19 condition by a Delphi consensus. Lancet Infect Dis. 2022;22(4):e102-e107. doi:10.1016/S1473-3099(21)00703-9. PMID: 34951953.
+8. Soriano JB, Murthy S, Marshall JC, Relan P, Diaz JV; WHO Clinical Case Definition Working Group on Post-COVID-19 Condition. A clinical case definition of post-COVID-19 condition by a Delphi consensus. Lancet Infect Dis. 2022;22(4):e102-e107. doi:10.1016/S1473-3099(21)00703-9. PMID: 34951953.
 9. Vaucher P, Druais PL, Waldvogel S, Favrat B. Effect of iron supplementation on fatigue in nonanemic menstruating women with low ferritin: a randomized controlled trial. CMAJ. 2012;184(11):1247-54. doi:10.1503/cmaj.110950. PMID: 22777991.
 
 *Последна проверка на съдържанието: септември 2026 г. Следващ планиран преглед: септември 2027 г. (вж. „Политика за актуализация“ в README).*

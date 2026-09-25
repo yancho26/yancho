@@ -395,7 +395,7 @@ flowchart TD
 4. National Institute for Health and Care Excellence. Venous thromboembolic diseases: diagnosis, management and thrombophilia testing (NICE guideline NG158). London: NICE; 2020 [актуализирано 2023]. Достъпно на: https://www.nice.org.uk/guidance/ng158
 5. Mokhlesi B, Masa JF, Brozek JL, Gurubhagavatula I, Murphy PB, Piper AJ, et al. Evaluation and Management of Obesity Hypoventilation Syndrome. An Official American Thoracic Society Clinical Practice Guideline. Am J Respir Crit Care Med. 2019;200(3):e6-e24. doi:10.1164/rccm.201905-1071ST. PMID: 31368798.
 6. Humbert M, Kovacs G, Hoeper MM, Badagliacca R, Berger RMF, Brida M, et al. 2022 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension. Eur Heart J. 2022;43(38):3618-3731. doi:10.1093/eurheartj/ehac237. PMID: 36017548.
-7. O'Driscoll BR, Howard LS, Earis J, Mak V. BTS guideline for oxygen use in adults in healthcare and emergency settings. Thorax. 2017;72(Suppl 1):ii1-ii90. doi:10.1136/thoraxjnl-2016-209729. PMID: 28507176.
+7. O'Driscoll BR, Howard LS, Earis J, Mak V; British Thoracic Society Emergency Oxygen Guideline Group; BTS Emergency Oxygen Guideline Development Group. BTS guideline for oxygen use in adults in healthcare and emergency settings. Thorax. 2017;72(Suppl 1):ii1-ii90. doi:10.1136/thoraxjnl-2016-209729. PMID: 28507176.
 8. Muraro A, Worm M, Alviani C, Cardona V, DunnGalvin A, Garvey LH, et al. EAACI guidelines: Anaphylaxis (2021 update). Allergy. 2022;77(2):357-377. doi:10.1111/all.15032. PMID: 34343358.
 
 *Последна проверка на съдържанието: септември 2026 г. Следващ планиран преглед: септември 2027 г. (вж. „Политика за актуализация“ в README).*

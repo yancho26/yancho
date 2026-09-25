@@ -412,7 +412,7 @@ flowchart TD
 3. Mentzer WC Jr. Differentiation of iron deficiency from thalassaemia trait. Lancet. 1973;1(7808):882. doi:10.1016/s0140-6736(73)91446-3. PMID: 4123424.
 4. Petkov GH, Efremov GD. Molecular basis of beta-thalassemia and other hemoglobinopathies in Bulgaria: an update. Hemoglobin. 2007;31(2):225-32. doi:10.1080/03630260701290316. PMID: 17486505.
 5. Kalaydjieva L, Eigel A, Horst J. The molecular basis of beta thalassaemia in Bulgaria. J Med Genet. 1989;26(10):614-8. doi:10.1136/jmg.26.10.614. PMID: 2577233.
-6. Devalia V, Hamilton MS, Molloy AM. Guidelines for the diagnosis and treatment of cobalamin and folate disorders. Br J Haematol. 2014;166(4):496-513. doi:10.1111/bjh.12959. PMID: 24942828.
+6. Devalia V, Hamilton MS, Molloy AM; British Committee for Standards in Haematology. Guidelines for the diagnosis and treatment of cobalamin and folate disorders. Br J Haematol. 2014;166(4):496-513. doi:10.1111/bjh.12959. PMID: 24942828.
 7. Zheng XL, Vesely SK, Cataland SR, Coppo P, Geldziler B, Iorio A, et al. ISTH guidelines for the diagnosis of thrombotic thrombocytopenic purpura. J Thromb Haemost. 2020;18(10):2486-2495. doi:10.1111/jth.15006. PMID: 32914582.
 
 *Последна проверка на съдържанието: септември 2026 г. Следващ планиран преглед: септември 2027 г. (вж. „Политика за актуализация“ в README).*
