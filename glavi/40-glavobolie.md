@@ -417,7 +417,7 @@ flowchart TD
 
 ## Литература
 
-1. . Headache Classification Committee of the International Headache Society (IHS) The International Classification of Headache Disorders, 3rd edition. Cephalalgia. 2018;38(1):1-211. doi:10.1177/0333102417738202. PMID: 29368949.
+1. Headache Classification Committee of the International Headache Society (IHS). The International Classification of Headache Disorders, 3rd edition. Cephalalgia. 2018;38(1):1-211. doi:10.1177/0333102417738202. PMID: 29368949.
 2. Do TP, Remmers A, Schytz HW, Schankin C, Nelson SE, Obermann M, et al. Red and orange flags for secondary headaches in clinical practice: SNNOOP10 list. Neurology. 2019;92(3):134-144. doi:10.1212/WNL.0000000000006697. PMID: 30587518.
 3. National Institute for Health and Care Excellence. Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management (NICE guideline NG228). London: NICE; 2022. Достъпно на: https://www.nice.org.uk/guidance/ng228
 4. Perry JJ, Stiell IG, Sivilotti ML, Bullard MJ, Emond M, Symington C, et al. Sensitivity of computed tomography performed within six hours of onset of headache for diagnosis of subarachnoid haemorrhage: prospective cohort study. BMJ. 2011;343:d4277. doi:10.1136/bmj.d4277. PMID: 21768192.
