@@ -61,7 +61,7 @@
 
 *Източник: Reproduced from: Royal College of Physicians. National Early Warning Score (NEWS) 2: Standardising the assessment of acute-illness severity in the NHS. Updated report of a working party. London: RCP, 2017. Преводът на показателите не е одобрен от Royal College of Physicians; преди клинична употреба сверете с оригинала на английски език („The wording of this translation has not been specifically approved by the Royal College of Physicians – please refer to the English language version before making any clinical use of this information.“).*
 
-**Интерпретация:**
+**Тълкуване:**
 
 - **0** – много нисък риск, но при инфекция пациентът се преоценява при влошаване или клинична тревога [1];
 - **1–4** – нисък риск [2];
