@@ -320,6 +320,16 @@ flowchart TD
 
 ---
 
+## Визуални примери
+
+Учебникът не съдържа собствени изображения. Типичните находки могат да се видят в свободно достъпни атласи (връзките са проверени през септември 2026 г.):
+
+- AV блок II степен, тип Mobitz II — [LITFL ECG Library](https://litfl.com/av-block-2nd-degree-mobitz-ii-hay-block/)
+- Пълен AV блок — [LITFL ECG Library](https://litfl.com/av-block-3rd-degree-complete-heart-block/)
+- Синдром на Brugada — [LITFL ECG Library](https://litfl.com/brugada-syndrome-ecg-library/)
+
+---
+
 ## Обобщение
 
 - Синкопът е рефлексен, ортостатичен или сърдечен. Той трябва да се разграничи от епилептичния пристъп, психогенния псевдосинкоп и метаболитните причини.

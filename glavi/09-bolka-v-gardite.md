@@ -381,6 +381,18 @@ flowchart TD
 
 ---
 
+## Визуални примери
+
+Учебникът не съдържа собствени изображения. Типичните находки могат да се видят в свободно достъпни атласи (връзките са проверени през септември 2026 г.):
+
+- ЕКГ при преден инфаркт с ST-елевация — [LITFL ECG Library](https://litfl.com/anterior-myocardial-infarction-ecg-library/)
+- ЕКГ при долен инфаркт с ST-елевация — [LITFL ECG Library](https://litfl.com/inferior-stemi-ecg-library/)
+- ЕКГ при перикардит — [LITFL ECG Library](https://litfl.com/pericarditis-ecg-library/)
+- Синдром на Wellens — [LITFL ECG Library](https://litfl.com/wellens-syndrome-ecg-library/)
+- ЕКГ промени при белодробна тромбемболия — [LITFL ECG Library](https://litfl.com/ecg-changes-in-pulmonary-embolism/)
+
+---
+
 ## Обобщение
 
 - Болката в гърдите в общата практика най-често е мускулно-скелетна, но първата задача е изключването на шестте животозастрашаващи причини.

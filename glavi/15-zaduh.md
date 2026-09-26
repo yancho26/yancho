@@ -304,6 +304,17 @@ flowchart TD
 
 ---
 
+## Визуални примери
+
+Учебникът не съдържа собствени изображения. Типичните находки могат да се видят в свободно достъпни атласи (връзките са проверени през септември 2026 г.):
+
+- Тензионен пневмоторакс — [Radiology Masterclass](https://www.radiologymasterclass.co.uk/gallery/chest/pneumothorax/pneumothorax_b)
+- ХОББ на рентгенография — [Radiology Masterclass](https://www.radiologymasterclass.co.uk/gallery/chest/pulmonary-disease/chest_xray_copd)
+- Алвеоларен белодробен оток — [Radiology Masterclass](https://www.radiologymasterclass.co.uk/gallery/chest/cardiac_disease/pulmonary_oedema)
+- ЕКГ промени при белодробна тромбемболия — [LITFL ECG Library](https://litfl.com/ecg-changes-in-pulmonary-embolism/)
+
+---
+
 ## Обобщение
 
 - Задухът е субективно усещане, а тахипнеята — обективен признак. При остър задух първо се оценява тежестта и се лекуват животозастрашаващите състояния.

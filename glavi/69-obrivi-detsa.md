@@ -316,6 +316,22 @@ flowchart TD
 
 ---
 
+## Визуални примери
+
+Учебникът не съдържа собствени изображения. Типичните находки могат да се видят в свободно достъпни атласи (връзките са проверени през септември 2026 г.):
+
+- Морбили — [DermNet](https://dermnetnz.org/topics/measles)
+- Скарлатина — [DermNet](https://dermnetnz.org/topics/scarlet-fever)
+- Шап (болест ръка-крак-уста) — [DermNet](https://dermnetnz.org/topics/hand-foot-and-mouth-disease)
+- Болест на Kawasaki — [DermNet](https://dermnetnz.org/topics/kawasaki-disease)
+- Менингококова болест — [DermNet](https://dermnetnz.org/topics/meningococcal-disease)
+- Инфекциозен еритем (пета болест) — [DermNet](https://dermnetnz.org/topics/erythema-infectiosum)
+- Розеола — [DermNet](https://dermnetnz.org/topics/roseola)
+- Варицела — [DermNet](https://dermnetnz.org/topics/chickenpox)
+- IgA васкулит (пурпура на Henoch-Schönlein) — [DermNet](https://dermnetnz.org/topics/henoch-schoenlein-purpura)
+
+---
+
 ## Обобщение
 
 - При обрив първо се питат три неща: изглежда ли детето болно, избледнява ли обривът и има ли треска.

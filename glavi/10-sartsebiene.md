@@ -306,6 +306,18 @@ flowchart TD
 
 ---
 
+## Визуални примери
+
+Учебникът не съдържа собствени изображения. Типичните находки могат да се видят в свободно достъпни атласи (връзките са проверени през септември 2026 г.):
+
+- Предсърдно мъждене — [LITFL ECG Library](https://litfl.com/atrial-fibrillation-ecg-library/)
+- Предсърдно трептене — [LITFL ECG Library](https://litfl.com/atrial-flutter-ecg-library/)
+- Суправентрикуларна тахикардия — [LITFL ECG Library](https://litfl.com/supraventricular-tachycardia-svt-ecg-library/)
+- Синдроми на преексцитация (Wolff-Parkinson-White) — [LITFL ECG Library](https://litfl.com/pre-excitation-syndromes-ecg-library/)
+- Мономорфна камерна тахикардия — [LITFL ECG Library](https://litfl.com/ventricular-tachycardia-monomorphic-ecg-library/)
+
+---
+
 ## Обобщение
 
 - Сърцебиенето се дължи на аритмии, психични и други несърдечни причини. Описанието на ритъма и начина на започване и спиране насочва към диагнозата.

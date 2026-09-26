@@ -303,6 +303,17 @@ flowchart TD
 
 ---
 
+## Визуални примери
+
+Учебникът не съдържа собствени изображения. Типичните находки могат да се видят в свободно достъпни атласи (връзките са проверени през септември 2026 г.):
+
+- Лобарна консолидация — [Radiology Masterclass](https://www.radiologymasterclass.co.uk/gallery/chest/pulmonary-disease/consolidation_lobar)
+- Атипична пневмония — [Radiology Masterclass](https://www.radiologymasterclass.co.uk/gallery/chest/pulmonary-disease/atypical_pneumonia)
+- Туберкулоза — [Radiology Masterclass](https://www.radiologymasterclass.co.uk/gallery/chest/pulmonary-disease/tuberculosis_tb)
+- Бронхиектазии и муковисцидоза — [Radiology Masterclass](https://www.radiologymasterclass.co.uk/gallery/chest/pulmonary-disease/bronchiectasis_cystic_fibrosis)
+
+---
+
 ## Обобщение
 
 - Кашлицата се класифицира като остра, подостра и хронична. Всяка група има различни най-вероятни причини.

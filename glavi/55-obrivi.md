@@ -374,6 +374,20 @@ flowchart TD
 
 ---
 
+## Визуални примери
+
+Учебникът не съдържа собствени изображения. Типичните находки могат да се видят в свободно достъпни атласи (връзките са проверени през септември 2026 г.):
+
+- Псориазис — [DermNet](https://dermnetnz.org/topics/psoriasis)
+- Атопичен дерматит — [DermNet](https://dermnetnz.org/topics/atopic-dermatitis)
+- Tinea corporis — [DermNet](https://dermnetnz.org/topics/tinea-corporis)
+- Розов лишей (pityriasis rosea) — [DermNet](https://dermnetnz.org/topics/pityriasis-rosea)
+- Себореен дерматит — [DermNet](https://dermnetnz.org/topics/seborrhoeic-dermatitis)
+- Синдром на Stevens-Johnson и токсична епидермална некролиза — [DermNet](https://dermnetnz.org/topics/stevens-johnson-syndrome-toxic-epidermal-necrolysis)
+- Херпес зостер — [DermNet](https://dermnetnz.org/topics/herpes-zoster)
+
+---
+
 ## Обобщение
 
 - Обривът се описва точно: първична морфология, вторични промени, разпределение и конфигурация. Описанието определя морфологичната група и диференциалната диагноза.

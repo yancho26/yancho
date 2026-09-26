@@ -339,6 +339,17 @@ flowchart TD
 
 ---
 
+## Визуални примери
+
+Учебникът не съдържа собствени изображения. Типичните находки могат да се видят в свободно достъпни атласи (връзките са проверени през септември 2026 г.):
+
+- Плеврални заболявания — [Radiology Masterclass](https://www.radiologymasterclass.co.uk/gallery/chest/pulmonary-disease/pleural_disease)
+- Формация или консолидация — [Radiology Masterclass](https://www.radiologymasterclass.co.uk/gallery/chest/lung_cancer/mass_consolidation)
+- Лобарен колапс — [Radiology Masterclass](https://www.radiologymasterclass.co.uk/gallery/chest/lung_cancer/lobar_collapse)
+- Белодробна фиброза — [Radiology Masterclass](https://www.radiologymasterclass.co.uk/gallery/chest/pulmonary-disease/pulmonary_fibrosis)
+
+---
+
 ## Обобщение
 
 - Плевралният излив се потвърждава с ехография, а едностранният или нетипичният излив се пунктира. Критериите на Light разграничават транссудата от ексудата.

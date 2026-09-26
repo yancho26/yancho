@@ -349,6 +349,17 @@ flowchart TD
 
 ---
 
+## Визуални примери
+
+Учебникът не съдържа собствени изображения. Типичните находки могат да се видят в свободно достъпни атласи (връзките са проверени през септември 2026 г.):
+
+- Кардиомегалия — [Radiology Masterclass](https://www.radiologymasterclass.co.uk/gallery/chest/cardiac_disease/cardiomegaly)
+- Интерстициален белодробен оток (линии на Kerley B) — [Radiology Masterclass](https://www.radiologymasterclass.co.uk/gallery/chest/cardiac_disease/kerley_b_lines)
+- Алвеоларен белодробен оток — [Radiology Masterclass](https://www.radiologymasterclass.co.uk/gallery/chest/cardiac_disease/pulmonary_oedema)
+- Плеврални изливи при сърдечна недостатъчност — [Radiology Masterclass](https://www.radiologymasterclass.co.uk/gallery/chest/cardiac_disease/pleural_effusion)
+
+---
+
 ## Обобщение
 
 - Невинните шумове са систолни, тихи, с нормален втори тон и без симптоми. Всеки диастолен, холосистолен или силен шум и всеки шум със симптоми изисква ехокардиография.

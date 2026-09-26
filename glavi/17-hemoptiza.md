@@ -265,6 +265,16 @@ flowchart TD
 
 ---
 
+## Визуални примери
+
+Учебникът не съдържа собствени изображения. Типичните находки могат да се видят в свободно достъпни атласи (връзките са проверени през септември 2026 г.):
+
+- Хилусна формация с излив — [Radiology Masterclass](https://www.radiologymasterclass.co.uk/gallery/chest/lung_cancer/hilar_mass)
+- Кавернизирала белодробна формация — [Radiology Masterclass](https://www.radiologymasterclass.co.uk/gallery/chest/lung_cancer/cavitated_lung_mass)
+- Туберкулоза — [Radiology Masterclass](https://www.radiologymasterclass.co.uk/gallery/chest/pulmonary-disease/tuberculosis_tb)
+
+---
+
 ## Обобщение
 
 - Хемоптизата е изкашляне на кръв от долните дихателни пътища. Тя се разграничава от кървенето от носоглътката и от хематемезата.

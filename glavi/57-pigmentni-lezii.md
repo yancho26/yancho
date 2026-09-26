@@ -284,6 +284,18 @@ flowchart TD
 
 ---
 
+## Визуални примери
+
+Учебникът не съдържа собствени изображения. Типичните находки могат да се видят в свободно достъпни атласи (връзките са проверени през септември 2026 г.):
+
+- Меланом — [DermNet](https://dermnetnz.org/topics/melanoma)
+- Базалноклетъчен карцином — [DermNet](https://dermnetnz.org/topics/basal-cell-carcinoma)
+- Плоскоклетъчен карцином на кожата — [DermNet](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma)
+- Себорейна кератоза — [DermNet](https://dermnetnz.org/topics/seborrhoeic-keratosis)
+- Актинична кератоза — [DermNet](https://dermnetnz.org/topics/actinic-keratosis)
+
+---
+
 ## Обобщение
 
 - Меланомът се подозира по правилото ABCDE, признака на „грозното пате“ и претегления 7-точков списък. При 3 или повече точки или дерматоскопия, подозрителна за меланом, пациентът се насочва бързо.

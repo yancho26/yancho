@@ -262,6 +262,18 @@ flowchart TD
 
 ---
 
+## Визуални примери
+
+Учебникът не съдържа собствени изображения. Типичните находки могат да се видят в свободно достъпни атласи (връзките са проверени през септември 2026 г.):
+
+- Остра уртикария — [DermNet](https://dermnetnz.org/topics/acute-urticaria)
+- Хронична уртикария — [DermNet](https://dermnetnz.org/topics/chronic-urticaria)
+- Ангиоедем — [DermNet](https://dermnetnz.org/topics/angioedema)
+- Краста — [DermNet](https://dermnetnz.org/topics/scabies)
+- Херпетиформен дерматит — [DermNet](https://dermnetnz.org/topics/dermatitis-herpetiformis)
+
+---
+
 ## Обобщение
 
 - Сърбежът е дерматологичен (с първични лезии), системен, невропатен, психогенен или смесен. Сухата кожа е най-честата причина при възрастни хора.

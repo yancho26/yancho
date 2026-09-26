@@ -258,6 +258,19 @@ flowchart TD
 
 ---
 
+## Визуални примери
+
+Учебникът не съдържа собствени изображения. Типичните находки могат да се видят в свободно достъпни атласи (връзките са проверени през септември 2026 г.):
+
+- Язви на подбедрицата — [DermNet](https://dermnetnz.org/topics/leg-ulcer)
+- Венозна (застойна) екзема — [DermNet](https://dermnetnz.org/topics/venous-eczema)
+- Pyoderma gangrenosum — [DermNet](https://dermnetnz.org/topics/pyoderma-gangrenosum)
+- Alopecia areata — [DermNet](https://dermnetnz.org/topics/alopecia-areata)
+- Гъбична инфекция на ноктите — [DermNet](https://dermnetnz.org/topics/fungal-nail-infections)
+- Псориазис на ноктите — [DermNet](https://dermnetnz.org/topics/nail-psoriasis)
+
+---
+
 ## Обобщение
 
 - Язвите на краката са предимно венозни. Артериалните и невропатните се разпознават по локализацията, болката, пулсациите и глезенно-брахиалния индекс, който се измерва преди компресия.
