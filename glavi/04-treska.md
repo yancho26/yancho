@@ -479,7 +479,7 @@ flowchart TD
 ## Литература
 
 1. Royal College of Physicians. National Early Warning Score (NEWS) 2: Standardising the assessment of acute-illness severity in the NHS. Updated report of a working party. London: RCP; 2017.
-2. PETERSDORF RG, BEESON PB. Fever of unexplained origin: report on 100 cases. Medicine (Baltimore). 1961;40:1-30. doi:10.1097/00005792-196102000-00001. PMID: 13734791.
+2. Petersdorf RG, Beeson PB. Fever of unexplained origin: report on 100 cases. Medicine (Baltimore). 1961;40:1-30. doi:10.1097/00005792-196102000-00001. PMID: 13734791.
 3. Durack DT, Street AC. Fever of unknown origin--reexamined and redefined. Curr Clin Top Infect Dis. 1991;11:35-51. PMID: 1651090.
 4. Haidar G, Singh N. Fever of Unknown Origin. N Engl J Med. 2022;386(5):463-477. doi:10.1056/NEJMra2111003. PMID: 35108471.
 5. Bleeker-Rovers CP, Vos FJ, de Kleijn EMHA, Mudde AH, Dofferhoff TSM, Richter C, et al. A prospective multicenter study on fever of unknown origin: the yield of a structured diagnostic protocol. Medicine (Baltimore). 2007;86(1):26-38. doi:10.1097/MD.0b013e31802fe858. PMID: 17220753.
