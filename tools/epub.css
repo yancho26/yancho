@@ -1,0 +1,8 @@
+body { font-family: "DejaVu Serif", serif; line-height: 1.45; }
+h1, h2, h3, h4 { font-family: "DejaVu Sans", sans-serif; }
+table { border-collapse: collapse; width: 100%; font-size: 0.85em; margin: 0.6em 0; }
+th, td { border: 1px solid #999; padding: 0.25em 0.4em; vertical-align: top; }
+th { background: #eee; }
+img { max-width: 100%; }
+blockquote { border-left: 3px solid #999; margin-left: 0; padding-left: 0.8em; color: #333; }
+figcaption { display: none; }
