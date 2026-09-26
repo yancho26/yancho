@@ -26,4 +26,11 @@ pypandoc.convert_file('build/book.md', 'html5', outputfile='build/book.html',
                                            '--metadata=pagetitle:Диференциална диагноза'])
 PY
 node tools/topdf.js "$PWD/build/book.html" build/diferencialna-diagnoza.pdf
+# По желание: по-малък PDF (изисква PyMuPDF)
+python3 - <<'PY' || true
+import pymupdf
+d = pymupdf.open('build/diferencialna-diagnoza.pdf')
+d.rewrite_images(dpi_threshold=160, dpi_target=150, quality=85)
+d.save('build/diferencialna-diagnoza-compact.pdf', garbage=4, deflate=True)
+PY
 echo "Готово: build/diferencialna-diagnoza.epub и build/diferencialna-diagnoza.pdf"
