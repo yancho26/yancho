@@ -341,7 +341,7 @@ flowchart TD
 5. Shaheen NJ, Falk GW, Iyer PG, Souza RF, Yadlapati RH, Sauer BG, et al. Diagnosis and Management of Barrett's Esophagus: An Updated ACG Guideline. Am J Gastroenterol. 2022;117(4):559-587. doi:10.14309/ajg.0000000000001680. PMID: 35354777.
 6. Birk M, Bauerfeind P, Deprez PH, Häfner M, Hartmann D, Hassan C, et al. Removal of foreign bodies in the upper gastrointestinal tract in adults: European Society of Gastrointestinal Endoscopy (ESGE) Clinical Guideline. Endoscopy. 2016;48(5):489-96. doi:10.1055/s-0042-100456. PMID: 26862844.
 7. Dhar A, Haboubi HN, Attwood SE, Auth MKH, Dunn JM, Sweis R, et al. British Society of Gastroenterology (BSG) and British Society of Paediatric Gastroenterology, Hepatology and Nutrition (BSPGHAN) joint consensus guidelines on the diagnosis and management of eosinophilic oesophagitis in children and adults. Gut. 2022;71(8):1459-1487. doi:10.1136/gutjnl-2022-327326. PMID: 35606089.
-8. Yadlapati R, Kahrilas PJ, Fox MR, Bredenoord AJ, Prakash Gyawali C, Roman S, et al. Esophageal motility disorders on high-resolution manometry: Chicago classification version 4.0(©). Neurogastroenterol Motil. 2021;33(1):e14058. doi:10.1111/nmo.14058. PMID: 33373111.
+8. Yadlapati R, Kahrilas PJ, Fox MR, Bredenoord AJ, Prakash Gyawali C, Roman S, et al. Esophageal motility disorders on high-resolution manometry: Chicago classification version 4.0. Neurogastroenterol Motil. 2021;33(1):e14058. doi:10.1111/nmo.14058. PMID: 33373111.
 
 *Последна проверка на съдържанието: септември 2026 г. Следващ планиран преглед: септември 2027 г. (вж. „Политика за актуализация“ в README).*
 
