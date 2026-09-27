@@ -217,7 +217,7 @@
 - **Серотонинов синдром** – [гл. 75](../glavi/75-psihoza.md), [гл. 79](../glavi/79-otravyania.md)
 - **Синдром на Cushing** – [гл. 38](../glavi/38-nadbabrechni-hipofiza.md)
 - **Синдром на Guillain-Barré** – [гл. 46](../glavi/46-muskulna-slabost.md)
-- **Синдром на Stevens-Johnson и TEN** – [гл. 55](../glavi/55-obrivi.md), [гл. 69](../glavi/69-obrivi-detsa.md)
+- **Синдром на Stevens-Johnson и токсична епидермална некролиза** – [гл. 55](../glavi/55-obrivi.md), [гл. 69](../glavi/69-obrivi-detsa.md)
 - **Синдром на конската опашка (cauda equina)** – [гл. 49](../glavi/49-bolka-v-garba.md)
 - **Синдром на поликистозните яйчници** – [гл. 39](../glavi/39-polovi-hormoni.md), [гл. 63](../glavi/63-menstrualni-narushenia.md)
 - **Синини при деца** – [гл. 69](../glavi/69-obrivi-detsa.md)
@@ -300,7 +300,9 @@
 
 - **Балканска ендемична нефропатия** – [гл. 28](../glavi/28-hematuria-proteinuria.md), [гл. 29](../glavi/29-babrechno-uvrezhdane.md)
 - **Бета-таласемия минор** – [гл. 32](../glavi/32-anemia.md)
+- **Ботулизъм от домашни консерви** – [гл. 79](../glavi/79-otravyania.md)
 - **Бруцелоза** – [гл. 4](../glavi/04-treska.md), [гл. 80](../glavi/80-patuvane-imunosupresia.md)
+- **Висцерална лайшманиоза** – [гл. 80](../glavi/80-patuvane-imunosupresia.md)
 - **Ехинококоза** – [гл. 80](../glavi/80-patuvane-imunosupresia.md)
 - **Кримска-Конго хеморагична треска** – [гл. 77](../glavi/77-sepsis.md), [гл. 80](../glavi/80-patuvane-imunosupresia.md)
 - **Лептоспироза** – [гл. 77](../glavi/77-sepsis.md), [гл. 80](../glavi/80-patuvane-imunosupresia.md)
@@ -311,10 +313,8 @@
 - **Паркинсонизъм от цинаризин и флунаризин** – [гл. 48](../glavi/48-tremor.md), [гл. 81](../glavi/81-vazrastniyat-patsient.md)
 - **Трихинелоза** – [гл. 80](../glavi/80-patuvane-imunosupresia.md)
 - **Туларемия** – [гл. 80](../glavi/80-patuvane-imunosupresia.md)
-- **Хантавирусна треска с бъбречен синдром** – [гл. 77](../glavi/77-sepsis.md), [гл. 80](../glavi/80-patuvane-imunosupresia.md)
-- **Висцерална лайшманиоза** – [гл. 80](../glavi/80-patuvane-imunosupresia.md)
 - **Ухапване от пепелянка** – [гл. 79](../glavi/79-otravyania.md)
-- **Ботулизъм от домашни консерви** – [гл. 79](../glavi/79-otravyania.md)
+- **Хантавирусна треска с бъбречен синдром** – [гл. 77](../glavi/77-sepsis.md), [гл. 80](../glavi/80-patuvane-imunosupresia.md)
 
 *Последна проверка на съдържанието: септември 2026 г. Следващ планиран преглед: септември 2027 г. (вж. „Политика за актуализация“ в README).*
 
