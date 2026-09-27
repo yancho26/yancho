@@ -9,7 +9,6 @@
 ## А
 
 - **Абстиненция (алкохол, бензодиазепини, опиоиди)** – [гл. 76](../glavi/76-funktsionalni-veshtestva.md)
-- **Азотен оксид (миелопатия)** – [гл. 76](../glavi/76-funktsionalni-veshtestva.md)
 - **Аменорея** – [гл. 63](../glavi/63-menstrualni-narushenia.md)
 - **Анафилаксия** – [гл. 78](../glavi/78-shok-anafilaksia.md)
 - **Ангиоедем** – [гл. 56](../glavi/56-srabezh-urtikaria.md), [гл. 78](../glavi/78-shok-anafilaksia.md)
@@ -82,6 +81,7 @@
 - **Деменция** – [гл. 44](../glavi/44-dementsia.md)
 - **Депресия** – [гл. 74](../glavi/74-depresia-trevozhnost.md)
 - **Дехидратация при деца** – [гл. 70](../glavi/70-korem-detsa.md)
+- **Диазотен оксид (миелопатия)** – [гл. 76](../glavi/76-funktsionalni-veshtestva.md)
 - **Диария** – [гл. 23](../glavi/23-diaria.md), [гл. 70](../glavi/70-korem-detsa.md)
 - **Дизурия** – [гл. 27](../glavi/27-dizuria.md)
 - **Диплопия (двойно виждане)** – [гл. 60](../glavi/60-zrenie.md)
