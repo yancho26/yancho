@@ -492,7 +492,7 @@ flowchart TD
 4. Ngoc K, Stoikov I, Trifonova I, Panayotova E, Taseva E, Trifonova I, et al. Molecular and Clinical Characterization of Crimean-Congo Hemorrhagic Fever in Bulgaria, 2015-2024. Pathogens. 2025;14(8):785. doi:10.3390/pathogens14080785. PMID: 40872295.
 5. Lo GK, Juhl D, Warkentin TE, Sigouin CS, Eichler P, Greinacher A. Evaluation of pretest clinical score (4 T's) for the diagnosis of heparin-induced thrombocytopenia in two clinical settings. J Thromb Haemost. 2006;4(4):759-65. doi:10.1111/j.1538-7836.2006.01787.x. PMID: 16634744.
 6. Bailey SE, Ukoumunne OC, Shephard EA, Hamilton W. Clinical relevance of thrombocytosis in primary care: a prospective cohort study of cancer incidence using English electronic medical records and cancer registry data. Br J Gen Pract. 2017;67(659):e405-e413. doi:10.3399/bjgp17X691109. PMID: 28533199.
-7. Khoury JD, Solary E, Abla O, Akkari Y, Alaggio R, Apperley JF, et al. The 5th edition of the World Health Organization Classification of Haematolymphoid Tumours: Myeloid and Histiocytic/Dendritic Neoplasms. Leukemia. 2022;36(7):1703-1719. doi:10.1038/s41375-022-01613-1. PMID: 35732831.
+7. Khoury JD, Solary E, Abla O, Akkari Y, Alaggio R, Apperley JF, et al. The 5th edition of the World Health Organization Classification of Haematolymphoid Tumours: Myeloid and Histiocytic/Dendritic Neoplasms. Leukemia. 2022;36(7):1703-1719. doi:10.1038/s41375-022-01613-1. PMID: 35732831.
 
 *Последна проверка на съдържанието: септември 2026 г. Следващ планиран преглед: септември 2027 г. (вж. „Политика за актуализация“ в README).*
 
